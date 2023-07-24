@@ -70,7 +70,7 @@ Para ello, tenemos a disposicion información relevante para formar nuestras his
 
 ### Historia de usuario 1
 
-<img src="./src/img/hu1.png" alt="objetivo Visualizar Data" style="max-width: 400px;" />
+<img src="./src/img/hu1.png" alt="objetivo Visualizar Data" width="400px;" />
 
 ### Historia de usuario 2
 <img src="./src/img/hu2.png" alt="objetivo Mostrar Ranking de Aparición de Pokémon" style="max-width: 400px;" />
