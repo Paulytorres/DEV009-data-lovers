@@ -101,8 +101,8 @@ Tras las primeras iteraciones realizamos el prototipo de alta fidelidad en la cu
 <img src="./src/img/pa_1.png" alt="Prototipo de alta pag inicial" width="400px" />
 <img src="./src/img/pa_2.png" alt="Prototipo de alta menu type" width="400px" />
 <img src="./src/img/pa_3.png" alt="Prototipo de alta sub menu" width="400px"/>
-<img src="./src/img/pa_4.png" alt="Prototipo de alta open type" style="max-width: 400px;" />
-<img src="./src/img/pa_5.png" alt="Prototipo de alta open modal" style="max-width: 400px;" />
+<img src="./src/img/pa_4.png" alt="Prototipo de alta open type" width="400px" />
+<img src="./src/img/pa_5.png" alt="Prototipo de alta open modal" width="400px" />
 
 #### Testeos de usabilidad
 
@@ -110,21 +110,21 @@ Durante los testos de usabilidad se nos da el feedback de modificar las **_“CA
 
 Y tras las modificaciones correspondientes quedo así:
 
-<img src="./src/img/papf.png" alt="Prototipo de alta post feedback" style="max-width: 400px;" />
-<img src="./src/img/papf2.png" alt="Prototipo de alta post feedback" style="max-width: 400px;" />
+<img src="./src/img/papf.png" alt="Prototipo de alta post feedback" width="400px" />
+<img src="./src/img/papf2.png" alt="Prototipo de alta post feedback" width="400px" />
 
 Para interactuar con los últimas cambios realizados en **Figma** de nuestro prototipo de alta fidelidad [haz click aqui](https://www.figma.com/proto/pidKRNIkKzxTi7C86XmXJc/Prototipo-alta-DL?type=design&node-id=1-5&t=hoRF5R4XbQ2Csy5X-0&scaling=scale-down&page-id=0%3A1&starting-point-node-id=1%3A5)
 
-<img src="./src/img/1.png" alt="Prototipo de alta pag inicial" style="max-width: 400px;" />
-<img src="./src/img/2.png" alt="Prototipo de alta menu°/tipo" style="max-width: 400px;" />
-<img src="./src/img/3.png" alt="Prototipo de alta tipos" style="max-width: 400px;" />
-<img src="./src/img/4.png" alt="Prototipo de alta modal" style="max-width: 400px;" />
+<img src="./src/img/1.png" alt="Prototipo de alta pag inicial" width="400px" />
+<img src="./src/img/2.png" alt="Prototipo de alta menu°/tipo" width="400px"/>
+<img src="./src/img/3.png" alt="Prototipo de alta tipos" width="400px"/>
+<img src="./src/img/4.png" alt="Prototipo de alta modal" width="400px"/>
 
 Para realizar la búsqueda por nombre de nuestro prototipo en **Figma**
 
-<img src="./src/img/5.png" alt="Prototipo de alta buscador " style="max-width: 400px;" />
-<img src="./src/img/6.png" alt="Prototipo de alta buscador por nombre Pikachu" style="max-width: 400px;" />
-<img src="./src/img/7.png" alt="Prototipo de alta modal pikachu" style="max-width: 400px;" />
+<img src="./src/img/5.png" alt="Prototipo de alta buscador " width="400px" />
+<img src="./src/img/6.png" alt="Prototipo de alta buscador por nombre Pikachu" width="400px" />
+<img src="./src/img/7.png" alt="Prototipo de alta modal pikachu" width="400px" />
 
 
 ## 6. Estructura de archivos
@@ -174,30 +174,30 @@ El proyecto está organizado de la siguiente manera:
 
 Estos test contribuyen al mantenimiento y la calidad del código, permiten detectar rápidamente problemas que puedan surgir tras cambios en el código. 
 
-<img src="./src/img/test.png" alt="test aprobados" style="max-width: 600px;" />
+<img src="./src/img/test.png" alt="test aprobados" width="600px" />
 
 ## 8. Interfaz desplegada
 ### Versión escritorio 
 Esta es la interfaz final de la aplicación web en la vista de escritorio.
 
-<img src="./src/img/a.png" alt="pag inicial" style="max-width: 400px;" />
-<img src="./src/img/a1.png" alt=" ranki" style="max-width: 400px;" />
-<img src="./src/img/b.png" alt=" filtro" style="max-width: 400px;" />
-<img src="./src/img/c.png" alt="all pokemon" style="max-width: 400px;" />
-<img src="./src/img/d.png" alt="search" style="max-width: 400px;" />
-<img src="./src/img/e.png" alt="orden z-a" style="max-width: 400px;" />
+<img src="./src/img/a.png" alt="pag inicial" width="400px" />
+<img src="./src/img/a1.png" alt=" ranki" width="400px" />
+<img src="./src/img/b.png" alt=" filtro" width="400px"/>
+<img src="./src/img/c.png" alt="all pokemon" width="400px"/>
+<img src="./src/img/d.png" alt="search" width="400px" />
+<img src="./src/img/e.png" alt="orden z-a" width="400px" />
 
 
 ### Versión tableta 
 Esta es la interfaz final de la aplicación web en la vista de tableta equivalente a _720 px_.
-<img src="./src/img/t1.png" alt="pag inicial" style="max-width: 400px;" />
-<img src="./src/img/t2.png" alt=" ranki" style="max-width: 400px;" />
-<img src="./src/img/t3.png" alt=" filtro" style="max-width: 400px;" />
+<img src="./src/img/t1.png" alt="pag inicial" width="400px"/>
+<img src="./src/img/t2.png" alt=" ranki" width="400px"/>
+<img src="./src/img/t3.png" alt=" filtro" width="400px"/>
 ### Versión móvil
 Esta es la interfaz final de la aplicación web en la vista de movil equivalente a _480 px_. 
-<img src="./src/img/i1.png" alt="pag inicial" style="max-width: 400px;" />
-<img src="./src/img/i2.png" alt=" ranki" style="max-width: 400px;" />
-<img src="./src/img/i3.png" alt=" filtro" style="max-width: 400px;" />
+<img src="./src/img/i1.png" alt="pag inicial" width="400px" />
+<img src="./src/img/i2.png" alt=" ranki" width="400px"/>
+<img src="./src/img/i3.png" alt=" filtro" width="400px" />
 
 ## 9. Desarrolladoras
 
