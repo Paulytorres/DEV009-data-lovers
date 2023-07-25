@@ -70,13 +70,13 @@ Para ello, tenemos a disposicion información relevante para formar nuestras his
 
 ### Historia de usuario 1
 
-<img src="./src/img/hu1.png" alt="objetivo Visualizar Data" width="400px;" />
+<img src="./src/img/hu1.png" alt="objetivo Visualizar Data" width="400px" />
 
 ### Historia de usuario 2
-<img src="./src/img/hu2.png" alt="objetivo Mostrar Ranking de Aparición de Pokémon" style="max-width: 400px;" />
+<img src="./src/img/hu2.png" alt="objetivo Mostrar Ranking de Aparición de Pokémon" width="400px"/>
 
 ### Historia de usuario 3
-<img src="./src/img/hu3.png" alt="objetivo Filtrar Pokémon" style="max-width: 400px;" />
+<img src="./src/img/hu3.png" alt="objetivo Filtrar Pokémon" width="400px" />
 
 ### Diseño de la Interfaz de Usuario
 #### Prototipo de baja fidelidad
@@ -84,23 +84,23 @@ Para ello, tenemos a disposicion información relevante para formar nuestras his
 En cuanto al diseño de la página, lo primero después de definir el tema a trabajar fue desarrollar un prototipo de baja fidelidad. Para ello realizamos inicialmente bocetos en papel que llevamos posteriormente a _Figma_.
 
 ##### _Boceto en papel_:
-<img src="./src/img/boceto.png" alt="Boceto de la página" style="max-width: 300px;" />
+<img src="./src/img/boceto.png" alt="Boceto de la página" width="400px" />
 
 ##### _Prototipo en Figma_:
-<img src="./src/img/pb_1.png" alt="Prototipo de baja pag inicial" style="max-width: 400px;" />
-<img src="./src/img/pb_2.png" alt="Prototipo de baja open menu" style="max-width: 400px;" />
-<img src="./src/img/pb_3.png" alt="Prototipo de baja open modal" style="max-width: 400px;" />
+<img src="./src/img/pb_1.png" alt="Prototipo de baja pag inicial" width="400px" />
+<img src="./src/img/pb_2.png" alt="Prototipo de baja open menu" width="400px"/>
+<img src="./src/img/pb_3.png" alt="Prototipo de baja open modal" width="400px"/>
 
 #### Prototipo de alta fidelidad
 
 Tras las primeras iteraciones realizamos el prototipo de alta fidelidad en la cual definimos una paleta de colores inicial, priorizado que fuesen iconicas de _"Pokémon"_.
 
-<img src="./src/img/paleta.png" alt="Paleta de colores" style="max-width: 400px;" />
+<img src="./src/img/paleta.png" alt="Paleta de colores" width="400px"/>
 
 ##### _Prototipo en Figma_:
-<img src="./src/img/pa_1.png" alt="Prototipo de alta pag inicial" style="max-width: 400px;" />
-<img src="./src/img/pa_2.png" alt="Prototipo de alta menu type" style="max-width: 400px;" />
-<img src="./src/img/pa_3.png" alt="Prototipo de alta sub menu" style="max-width: 400px;" />
+<img src="./src/img/pa_1.png" alt="Prototipo de alta pag inicial" width="400px" />
+<img src="./src/img/pa_2.png" alt="Prototipo de alta menu type" width="400px" />
+<img src="./src/img/pa_3.png" alt="Prototipo de alta sub menu" width="400px"/>
 <img src="./src/img/pa_4.png" alt="Prototipo de alta open type" style="max-width: 400px;" />
 <img src="./src/img/pa_5.png" alt="Prototipo de alta open modal" style="max-width: 400px;" />
 
